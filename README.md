@@ -1,4 +1,4 @@
-# Honours_Workflow
+# spatiotemporal
 
 This GitHub repository contains the code for my Honours research project titled 'Exploring the Geodynamic Setting of Enigmatic Mineral Systems'. The aim of the project is to investigate the lithospheric thickness relationships of some ore deposits, as well as formational mechanisms of the sedimentary basins in which they form.
 
